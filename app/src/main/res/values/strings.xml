@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="btn_change_city">Change City</string>
+    <string name="btn_exit">Exit</string>
+    <string name="welcome">welcome to my  application!</string>
+
+</resources>
